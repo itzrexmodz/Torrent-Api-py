@@ -451,7 +451,7 @@ $ localhost:8009
 
 ## DEPLOY
 
-<a href="https://render.com/deploy?repo=https://github.com/Ryuk-me/Torrent-Api-py">
+<a href="https://render.com/deploy?repo=https://github.com/itzrexmodz/Torrent-Api-py">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" />
 </a>
 
